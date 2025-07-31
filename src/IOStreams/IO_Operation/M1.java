@@ -1,4 +1,4 @@
-package IOStreams;
+package IOStreams.IO_Operation;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package IOStreams;
+package IOStreams.IO_Operation;
 
 import java.io.*;
 import java.util.*;
